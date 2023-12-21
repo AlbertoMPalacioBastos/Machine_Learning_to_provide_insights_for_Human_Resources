@@ -3,4 +3,4 @@ Salifort Motors is a fictional French-based alternative energy vehicle manufactu
 ## Business case
 As a data specialist working for Salifort Motors, I have received the results of a recent employee survey. The senior leadership team has tasked me with analyzing the data to come up with ideas for how to increase employee retention. To help with this, they would like me to design a model that predicts whether an employee will leave the company based on their department, number of projects, average monthly hours, and any other data points I deem helpful.
 ## The value of my deliverable
-For this deliverable, I am asked to choose a method to approach this data challenge based on my knowledge. Analyze and select either a regression model or a tree-based machine learning model to predict whether an employee will leave the company.
+For this deliverable, I am asked to choose a method to approach this data challenge based on my knowledge. Analyze and select a data model to predict whether an employee will leave the company.
